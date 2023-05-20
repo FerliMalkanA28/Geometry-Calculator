@@ -15,4 +15,7 @@ Project Teknologi dan Aplikasi Mobile
  > Wallid Ilham Ramadhan    
    NPM. 2117051094
 
+# Thank You
+****Created by &#169;Geometry Calculator 2023***
+
 ~~ Happy Ngoding
