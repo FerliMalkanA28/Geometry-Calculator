@@ -1,7 +1,6 @@
 # Geometry-Calculator
 Project Teknologi dan Aplikasi Mobile
 
-
 # Developer
  > Dhiaurrahman Raziq Ramadhan      
    NPM. 2117051048
@@ -14,6 +13,10 @@ Project Teknologi dan Aplikasi Mobile
  
  > Wallid Ilham Ramadhan    
    NPM. 2117051094
+
+
+# Poster Lampung Guide
+<img src="https://github.com/FerliMalkanAmien/Geometry-Calculator/blob/main/Poster%20Geometry%20Calculator.png" style="max-width:50%;">
 
 # Thank You
 ****Created by &#169;Geometry Calculator 2023***
